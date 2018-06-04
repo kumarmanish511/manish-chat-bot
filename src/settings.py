@@ -8,7 +8,7 @@ class Settings:
 	def __init__(self):
 		# -> Main setting.
 		# Your authentication token.
-		self.AUTH_TOKEN = "eZsDM7flMsE7cB+Vb/6EMIQ3zampg09Hooz+kPe/mjge6Pq37fb69/1xfiJWEihnWkWibcMye+zTbQEsXTvIRtViJsVuV+I0f9tv1Sb50nFqXhOagxGpP7hloBVbrBgpAhyHp6p397ZLURBeiLLBwgdB04t89/1O/w1cDnyilFU="
+		self.AUTH_TOKEN = "RrQ/bPHKwxsbvFLT8JUwreciM07/zSciezugte54GFFXBtRC04K4t+2V1oXzYrH9qPAupZ52FUOWhSYica1xLw4j9MpuRX60iEqtgbaHlQFvuPDINvL2l6vq3FgIywSOAI2+iC5FBFO2dUhDiIdXcAdB04t89/1O/w1cDnyilFU="
 
 		# -> Youtube video downloader setting.
 		# Integrate with your site url + the path for saving the downloaded videos.
@@ -17,12 +17,12 @@ class Settings:
 
 		# -> Welcome Message when you are accepted the invite groups.
 		self.WELCOME_MESSAGE = '\
-		Makasih Anjing Sudah Di Undang, BOT Created by Zero Cool ^_^\
+		Makasih Anjing Sudah Di Undang, BOT Created by Bayu Lingga ^_^\
 		"!bothelp" untuk melihat perintah yang tersedia.'
 
 		# -> Auto reply setting.
 		# Replacing "simi" words to another words.
-		self.REPLACEMENT_CALL = "Zero Bot"
+		self.REPLACEMENT_CALL = "Bayu lingga"
 
 		# -> Not Important setting.
 		# Have another account? you can set it for your secondary account, it will called you/the others account as a boss.
