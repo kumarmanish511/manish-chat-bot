@@ -8,7 +8,7 @@ class Settings:
 	def __init__(self):
 		# -> Main setting.
 		# Your authentication token.
-		self.AUTH_TOKEN = "RrQ/bPHKwxsbvFLT8JUwreciM07/zSciezugte54GFFXBtRC04K4t+2V1oXzYrH9qPAupZ52FUOWhSYica1xLw4j9MpuRX60iEqtgbaHlQFvuPDINvL2l6vq3FgIywSOAI2+iC5FBFO2dUhDiIdXcAdB04t89/1O/w1cDnyilFU="
+		self.AUTH_TOKEN = "EteEct6twcjPtQoAz7o7.bI+n8Uc+KCrHRjit/sE4HW.W5mxJT+7buppZAwD8ZxmUF3ceLpnhXUGh5zOGPOR+20="
 
 		# -> Youtube video downloader setting.
 		# Integrate with your site url + the path for saving the downloaded videos.
